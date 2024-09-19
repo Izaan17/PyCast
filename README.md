@@ -24,7 +24,7 @@ PyCast is a simple, sleek, user-friendly weather app built using Python and the 
 
 1. Clone the repository or download the source code:
     ```bash
-    git clone https://github.com/yourusername/pycast-weather-app.git
+    git clone https://github.com/Izaan17/PyCast.git
     cd pycast-weather-app
     ```
 
